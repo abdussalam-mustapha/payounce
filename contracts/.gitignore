@@ -1,0 +1,8 @@
+node_modules
+artifacts
+cache
+types
+dist
+.env
+coverage
+ignition/deployments/chain-31337
